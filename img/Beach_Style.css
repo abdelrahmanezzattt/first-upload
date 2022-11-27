@@ -1,0 +1,43 @@
+.div1{
+
+    text-align: center;
+    background-image: url(./img/beachshow.jpg);
+    background-size: cover;
+    height: 120vh;
+}
+h1,p,input{
+    color: #DC7633;
+}
+.div2{background-color: #DC7633;
+    padding: 2%;
+
+}
+.div3{
+    background-color: #DC7633;
+    width: 800px;
+    padding: 2%;
+
+}
+.div4{
+    width: 800px;
+    padding: 2%;
+
+
+}
+.div5{
+    background-color: #DC7633;
+    width: 800px;
+    padding: 2%;
+
+    
+}
+.main_div{
+    display: flex;
+}
+.body_div{
+    padding: 2%;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
